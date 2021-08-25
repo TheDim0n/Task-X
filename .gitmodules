@@ -1,0 +1,6 @@
+[submodule "Task-X-Frontend"]
+	path = Task-X-Frontend
+	url = https://github.com/TheDim0n/Task-X-Frontend
+[submodule "Task-X-Backend"]
+	path = Task-X-Backend
+	url = https://github.com/TheDim0n/Task-X-Backend
